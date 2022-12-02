@@ -1,0 +1,27 @@
+nav {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: #3f51b5;
+  color:  rebeccapurple;
+  display: flex;
+  padding: 0 16px;
+  align-items: center;
+  height: 56px;
+  font: 500 20px/32px Roboto, "Helvetica Neue", sans-serif;
+}
+
+.menu {
+  color: black;
+  padding-right: 35px;
+  text-decoration: none;
+}
+
+.menu:hover{
+  color: red
+}
+
+.menu:active{
+  color: red
+}
+
